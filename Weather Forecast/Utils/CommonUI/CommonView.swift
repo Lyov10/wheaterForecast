@@ -17,9 +17,7 @@ class CommonView: UIView {
             updateCornerRadius()
         }
     }
-    
-    
-    
+        
     // MARK: - Init
     
     required init?(coder aDecoder: NSCoder) {
@@ -42,5 +40,4 @@ class CommonView: UIView {
         layer.cornerRadius = cornerRadius
         self.clipsToBounds = true
     }
-
 }

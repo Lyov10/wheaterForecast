@@ -37,12 +37,9 @@ class MainTabBarController: UITabBarController {
     
     private func prepareViewModels() {
         
-        // Home
         let mainDestinationVC = viewControllers?[0] as! MainViewController
         mainDestinationVC.viewModel = WeatherViewModel()
         mainDestinationVC.delegate = self
-
-        // Basket
         
         let forecastViewController = viewControllers?[2] as! ForecastViewController
         forecastViewController.viewModel = WeatherViewModel()

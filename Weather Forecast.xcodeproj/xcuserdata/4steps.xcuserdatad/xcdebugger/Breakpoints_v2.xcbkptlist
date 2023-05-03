@@ -157,10 +157,10 @@
             filePath = "Weather Forecast/ViewController/TabBar/MainTabBarController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "57"
-            endingLineNumber = "57"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
             landmarkName = "cityChanged(lat:lon:)"
-            landmarkType = "9">
+            landmarkType = "7">
             <Locations>
                <Location
                   uuid = "EDF5A832-0F7D-4134-807F-65A823F6A6E1 - c34b0e742f0c3480"
@@ -351,7 +351,7 @@
             startingLineNumber = "53"
             endingLineNumber = "53"
             landmarkName = "updateforecast(cordinates:)"
-            landmarkType = "9">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -364,8 +364,8 @@
             filePath = "Weather Forecast/ViewController/TabBar/MainTabBarController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
             landmarkName = "prepareViewModels()"
             landmarkType = "7">
          </BreakpointContent>
